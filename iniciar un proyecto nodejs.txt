@@ -1,0 +1,7 @@
+npm init -y
+
+
+-----------LINKS----------
+
+https://www.youtube.com/watch?v=15VKbky2gB4 thypescript
+https://youtu.be/BhvLIzVL8_o nodejs tutorial completo
